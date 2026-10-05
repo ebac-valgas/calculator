@@ -1,0 +1,5 @@
+# Criar arquivo calculadora.sh
+nano calculadora.sh
+
+# Alterar permisões do arquivo para tornar executável apenas pelo proprietário
+chmod u+x calculadora.sh
