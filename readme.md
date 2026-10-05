@@ -22,11 +22,11 @@ Script em **Python** que implementa uma calculadora simplificada para operaçõe
 
 3. **Torne o arquivo executável**
    ```bash
-   chmod u+x calculatora.sh
+   chmod u+x calculadora.sh
 
 4. **Execute o script**
    ```bash
-   .\calculatora.sh
+   .\calculadora.sh
 
 ## Funcionalidades
 - Adição
@@ -36,9 +36,10 @@ Script em **Python** que implementa uma calculadora simplificada para operaçõe
 
 
 # Executando a calculadora
-.\calculadora.sh
+./calculadora.sh
 
 # Exemplo de operação
+```bash
 Informe a operacao desejada:
 1 - Soma dois numeros
 2 - multiplica dois numeros
